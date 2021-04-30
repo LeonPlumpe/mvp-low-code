@@ -1,0 +1,67 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "image": "Gebäude_Images/1.Image.093814.jfif",
+      "type": "Schule",
+      "name": "Hombuldt",
+      "comment": "Fertigstellung",
+      "latitude": "53.551086",
+      "longitude": "9.993682"
+    },
+    {
+      "id": 2,
+      "image": "Gebäude_Images/2.Image.093911.jfif",
+      "type": "Spielplatz",
+      "name": "BPM",
+      "comment": "2 Seile kaputt",
+      "latitude": "52.5200081",
+      "longitude": "13.404954"
+    },
+    {
+      "id": 3,
+      "image": "Gebäude_Images/3.Image.093738.jfif",
+      "type": "Krankenhaus",
+      "name": "For Kids",
+      "comment": "3 freie Stellen",
+      "latitude": "48.483334",
+      "longitude": "9.216667"
+    },
+    {
+      "id": 4,
+      "image": "Gebäude_Images/4.Image.093845.jfif",
+      "type": "Schule",
+      "name": "Junior High",
+      "comment": "PZ",
+      "latitude": "51.584999",
+      "longitude": "7.161944"
+    },
+    {
+      "id": 5,
+      "image": "Gebäude_Images/5.Image.093853.jfif",
+      "type": "Schule",
+      "name": "FG",
+      "comment": "Toiletten erneuern",
+      "latitude": "49.583332",
+      "longitude": "11.016667"
+    },
+    {
+      "id": 6,
+      "image": "Gebäude_Images/6.Image.093918.jfif",
+      "type": "Spielplatz",
+      "name": "Grüne Wiese",
+      "comment": "PZ",
+      "latitude": "50.883331",
+      "longitude": " 8.016667"
+    },
+    {
+      "id": 7,
+      "image": "Gebäude_Images/6.Image.093918.jfif",
+      "type": "Spielplatz",
+      "name": "Grüne Wiesen",
+      "comment": "PZ",
+      "latitude": "-33.918861",
+      "longitude": "18.423300"
+    }
+  ]
+}
